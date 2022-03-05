@@ -8,4 +8,5 @@ Aragorn
 Samwise
 Gandalf
 Legolas
-Gimli
+King of Rohan
+
