@@ -7,3 +7,4 @@ Bilbo Bagins
 Aragorn
 Samwise
 Gandalf
+Legolas
