@@ -6,4 +6,4 @@ Frodo Bagins
 Bilbo Bagins
 Aragorn
 Samwise
-Legolas
+Gandalf
